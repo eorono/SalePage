@@ -48,7 +48,7 @@
             </p>
             
             <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
-                <a href="#" class="w-full sm:w-auto px-8 py-4 text-base font-semibold text-white bg-white text-brand-dark rounded-full hover:bg-gray-200 transition-all duration-200 shadow-[0_0_20px_rgba(255,255,255,0.3)]">
+                <a href="#" class="w-full sm:w-auto px-8 py-4 text-base font-semibold bg-white text-brand-dark rounded-full hover:bg-gray-200 transition-all duration-200 shadow-[0_0_20px_rgba(255,255,255,0.3)]">
                     Apply as a Creator
                 </a>
                 <a href="#" class="w-full sm:w-auto px-8 py-4 text-base font-semibold text-white bg-transparent border border-white/20 rounded-full hover:bg-white/5 transition-all duration-200 flex items-center justify-center gap-2">
